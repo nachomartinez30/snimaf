@@ -1,2 +1,3 @@
-# snimaf
-Sistema nacional de incendios
+# SNIMAF
+
+Sistema Nacional de Incendios
