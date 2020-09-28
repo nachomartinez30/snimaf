@@ -28,7 +28,7 @@ class Principal_model extends CI_Model
     {
         $res = $this->db->query($query);
         return ($res->num_rows() > 1) ? $res->result() : false;
-        
+
     }
 
 }
